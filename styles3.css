@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #CCEFE7;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.thankyou-title {
+  margin: 100px;
+  color: #ff8080;
+  text-transform: uppercase;
+  transition: all 4s ease-in-out;
+}
+
+.thankyou-title h1 {
+  font-size: 32px;
+  line-height: 10px;
+}
+
+.thankyout-title h2 {
+  padding: 10px;
+  font-size: 16px;
+}
